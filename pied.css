@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("TO.jpg");
+}
+h1{
+    color: rgb(42, 11, 247);
+
+}
+h2{
+    margin-left:50px ;
+}
+h3{
+    margin-left:50px ; 
+}   
+
+
+h4{
+    margin-left:50px ;
+
+}
+h5{
+    margin-left:50px ;
+
+}
+.p1{
+    margin-left: 50px;
+
+}
